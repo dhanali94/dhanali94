@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhanalifernando.
+- 👋 Hi, I’m Dhanali Nayanathara Fernando.
 - 👀 I’m interested in Web Developer.
 - 🌱 I’m currently learning BSc Software Engineering & Bachelor of Information Technology.
 - 💞️ I’m looking to collaborate on ...
