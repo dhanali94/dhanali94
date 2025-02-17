@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanali Nayanathara Fernando</h1>
-<h3 align="center">A passionate Web Developer from Sri Lanka..</h3>
+<h3 align="center">A passionate Web Developer | QA Engineer from Sri Lanka..</h3>
 
 - 🌱 Currently learning and growing in Web Development...
 
