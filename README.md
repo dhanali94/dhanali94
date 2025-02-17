@@ -1,9 +1,15 @@
-👋 Hi, I’m Dhanali Nayanathara Fernando...
-💻 Aspiring Web Developer | BSc(Hons) Software Engineer...
+<h1 align="center">Hi 👋, I'm Dhanali Nayanathara Fernando</h1>
+<h3 align="center">A passionate Web Developer from Sri Lanka..</h3>
 
+- 🌱 Currently learning and growing in Web Development...
 
+- 🌱 I’m currently learning...
 
-<!---
-dhanali94/dhanali94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻 BSc(Hons) Software Engineering... 
+
+- 💡 Open to collaborating on exciting projects!...
+
+- 📫 Reach me at dhanalifernando8@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
