@@ -1,4 +1,6 @@
 👋 Hi, I’m Dhanali Nayanathara Fernando...
+💻 Aspiring Web Developer | BSc(Hons) Software Engineer...
+
 
 
 <!---
